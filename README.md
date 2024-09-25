@@ -1,4 +1,7 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=min
+<div align="center">
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=min">
+</div>
+
 ## Hi there 👋
 Developer Training Course Start Date: 2024.7.15 ~
 
