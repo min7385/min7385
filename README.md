@@ -3,7 +3,9 @@
 </div>
 
 ## Hi there 👋
-Developer Training Course Start Date: 2024.7.15 ~
+* Developer Training Course
+ - 사전 과정: 2024.7.15 ~ 2024.7.26
+ - 본 과정: 2024.8.2 ~ 2025.1.17
 
 
 <!--
