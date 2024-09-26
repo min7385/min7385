@@ -2,7 +2,12 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=min">
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=min7385&theme=vue&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=min7385&theme=vue&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" />
+  </a>
+</div>
+
 
 ## Hi there 👋
 * Developer Training Course
